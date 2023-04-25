@@ -1,0 +1,151 @@
+* {
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+.nav{
+    padding: 0%;
+    margin: auto;
+}
+
+.nav-link {
+    color: grey;
+}
+
+.colorverde {
+    color: green !important;
+}
+.colorblanco {
+    color: white;
+}
+
+.card-img-overlay {
+    background-color:rgba(0, 0, 0, 0.463); 
+}
+
+.botonesarriba {
+    float: right;
+    margin-right: 5%;
+    margin-top: 2%;
+}
+
+.textoarriba {
+    float: right;
+    margin-top: 1%;
+    margin-left: 60%;
+    margin-right: 5%;
+}
+
+.confBsAs {
+    float: right;
+    margin-top: 20%;
+    margin-right: 10%;
+    
+    
+}
+
+.contenedor {
+    display: flex;
+}
+
+.container-fluid h2 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+
+}
+
+h2 {
+    text-align: center;
+    font-size: 10px;
+    margin-top: 3%;
+    margin-bottom: 0;
+}
+
+h3 {
+   text-align: center;
+   font-size: 30px;
+   margin-bottom: 1%;
+   
+}
+
+.container2 {
+    display: flex;
+    justify-content: center;
+    margin-right: 50px;
+}
+
+
+.h4 {
+    font-size: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+.imagen {
+
+    width: 240px;
+    margin-right: 30px;
+}
+
+.container {
+    text-align: center;
+    margin: 10;
+}
+
+.hunululu{
+    margin-top: 3%;
+}
+
+.caja {
+    background-color: rgb(66, 65, 65);
+    width: 660px;
+    height: 450px;
+    float: right;
+    margin: 0;
+    justify-content: center;
+    padding: 10px;
+    
+}
+
+.BuenosAires {
+color: white;
+}
+
+
+h1 {
+color: white;
+}
+
+
+.col {
+    margin-bottom: 40px;
+    margin-top: 20px;
+}
+
+.form-text {
+float: left;
+}
+
+.boton {
+    margin: 50px 50px;
+}
+
+
+footer {
+    background-color: #1b455b;
+    padding: 1%;
+}
+
+footer ul li {
+    display: inline;
+    margin-right: 5%;
+}
+
+footer ul li a {
+    text-decoration: none;
+    color: white;
+    display: inline;
+}
+
